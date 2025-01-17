@@ -1,3 +1,4 @@
+// 侧边栏样式更改地址
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
@@ -17,10 +18,10 @@ export default sidebar({
       children: "structure",
     },
     "intro",
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
-    },
+    // {
+    //   text: "幻灯片",
+    //   icon: "person-chalkboard",
+    //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+    // },
   ],
 });
