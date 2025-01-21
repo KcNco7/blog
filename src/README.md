@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: house
 title: 博客主页
-heroImage: https://oss.itbaima.cn/hub/84/image-20241110pvxe9gvh9.jpeg
+heroImage: https://q3.itc.cn/q_70/images03/20241013/d3a77cba5a074744905d0c49aa480487.jpeg
 heroText: KcNCo7的博客
 heroFullScreen: true
 tagline: 永远相信美好的事情即将发生
